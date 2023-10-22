@@ -1,9 +1,9 @@
 variable "env" {
-  type    = string
-  default = "Stage"
+  type = string
+  #default = "Stage"
 }
 
 variable "region" {
-  type    = string
-  default = "us-west-2"
+  type = string
+  #default = "us-west-2"
 }
